@@ -8,7 +8,7 @@
 
 import UIKit
 
-enum NVActivityIndicatorShape {
+public enum NVActivityIndicatorShape {
     case circle
     case circleSemi
     case ring
